@@ -1,0 +1,9 @@
+The PokemonFinder application is a Java-based project that allows users to search for Pokémon using the PokeAPI, and manage their favorite Pokémon. The application uses MySQL to store information about the user's favorite Pokémon, enabling CRUD (Create, Read, Update, Delete) operations.
+
+Technologies Used
+Java: The primary programming language used for developing the application.
+PokeAPI: An external API used to fetch data about Pokémon.
+MySQL: A relational database management system used to store favorite Pokémon details.
+JDBC: Java Database Connectivity used for interacting with the MySQL database.
+
+//Hello me from the future you will probably forget about this code or you will also probably feel disgusted about how I write the code 
